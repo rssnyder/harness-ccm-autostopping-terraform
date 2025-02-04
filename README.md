@@ -1,0 +1,1 @@
+# harness-ccm-autostopping-terraform
